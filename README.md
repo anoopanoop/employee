@@ -1,8 +1,13 @@
 # employee
 for interview purpose
+
+
 done this by using XAMPP
 
 server appache
+
+
+
 db mysql
 
 sampleEmployee.csv is the sample file for upload
